@@ -1,0 +1,5 @@
+<![LOG[Property definition is now = BDD_Welcome_ENU.xml]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Not Wizard = False]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Property WizardComplete is now = N]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Run WPEUtil.exe ListKeyboardLayouts 1033]LOG]!><time="14:51:58.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">

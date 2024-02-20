@@ -1,0 +1,9 @@
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Removing AutoAdminLogon registry entries]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Re-enabling UAC for built-in Administrator account]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[VSSMaxSize not specified using 5% of volume.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Logs contained 0 errors and 0 warnings.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[No Windows PE image to delete.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Checking mapped network drive.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Cleaning up C:\MININT directory.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Cleaning up TOOLS, SCRIPTS, and PACKAGES directories.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">

@@ -1,0 +1,159 @@
+<![LOG[ZTIUtility!GetAllFixedDrives (False)]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="C:"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #1, Partition #0"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="D:"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[ZTIUtility!GetAllFixedDrives =   C: ]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property LogPath is now = C:\MININT\SMSOSD\OSDLOGS]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property Debug is now = FALSE]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Cleaned up a dirty deployment.]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[ZTIUtility!GetAllFixedDrives (False)]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="C:"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #1, Partition #0"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="D:"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[ZTIUtility!GetAllFixedDrives =   C: ]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[No task sequence is in progress.]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS TargetDisk: \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[GetPartitions: 3]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS Target Partition: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Target Partition not big enough: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS Target Partition: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="C:"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Drive: C:]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS Target Partition: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #2"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Target Partition not big enough: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #2"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible NonOS Disk: \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found FirstPossibleSystemDrive: C:]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property SMSTSLocalDataDrive is now = C:]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Unable to get Current ID.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Not running within WinPE or WinRE.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeploymentMethod is now = UNC]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[DeploymentMethod = UNC]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeployRoot is now = X:\Deploy]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Using a local or mapped drive, no connection is required.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[DeployRoot = X:\Deploy]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeployDrive is now = X:]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[DeployDrive = X:]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property PHASE is now = PREINSTALL]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeploymentType is now = NEWCOMPUTER]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Phase = PREINSTALL]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property LTIFirstTime is now = NO]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[About to run command: wscript.exe "X:\Deploy\Scripts\ZTIGather.wsf" /inifile:Bootstrap.ini]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property inifile is now = Bootstrap.ini]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[------------------------- Object Initialization -------------------------]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[------------------------- Initialization -------------------------]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Synchronizing the environments.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property DeployRoot is now = X:\Deploy]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property DeployDrive is now = X:]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished synchronizing the environments.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting OS info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property OSCurrentVersion is now = 10.0.22000]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property OSCurrentBuild is now = 22000]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property OSVersion is now = WinPE]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsServerOS is now = False]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsServerCoreOS is now = False]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting OS info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting HAL information]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property HALName is now = acpiapic]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting HAL information]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting network info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Checking network adapter: [00000001] Realtek USB GbE Family Controller]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[MAC address = A0:CE:C8:CB:9B:3B]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[IP Address = 10.3.34.4]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[IP Address = fe80::c4ac:29ab:6839:d160]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Default Gateway = 10.3.34.1]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IPAddress001 is now = 10.3.34.4]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IPAddress002 is now = fe80::c4ac:29ab:6839:d160]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property MacAddress001 is now = A0:CE:C8:CB:9B:3B]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property definition is now = BDD_Welcome_ENU.xml]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Property DefaultGateway001 is now = 10.3.34.1]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting network info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting DP info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Unable to determine ConfigMgr distribution point]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting DP info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting WDS server info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property WDSServer is now = PHL-IMAGE.acr.org]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting WDS server info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property HostName is now = MININT-2A8NCC5]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting asset info]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Not Wizard = False]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[Property WizardComplete is now = N]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[FindFile: The file x86\Microsoft.BDD.Utility.dll could not be found in any standard locations.]LOG]!><time="14:51:56.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[FindFile(...\Microsoft.BDD.Utility.dll)  Result : 1]LOG]!><time="14:51:56.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[RUN: regsvr32.exe /s ""]LOG]!><time="14:51:56.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[FindFile(...\Microsoft.BDD.Utility.dll)  Result : 0]LOG]!><time="14:51:56.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[RUN: regsvr32.exe /s "X:\Deploy\Tools\x64\Microsoft.BDD.Utility.dll"]LOG]!><time="14:51:56.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property AssetTag is now = No Asset Tag]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SerialNumber is now = PF3RJ2RA]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property Make is now = LENOVO]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property Model is now = 21HD21HD00]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property Product is now = 21HD21HD00]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property UUID is now = 97E9724C-2780-11B2-A85C-EA3BE8FDA311]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property Memory is now = 16056]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property Architecture is now = X64]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property ProcessorSpeed is now = 1700]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property CapableArchitecture is now = AMD64 X64 X86]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsLaptop is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsDesktop is now = False]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsServer is now = False]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsUEFI is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsOnBattery is now = False]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SupportsX86 is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SupportsX64 is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SupportsSLAT is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting asset info]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting OS SKU info]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Unable to determine Windows SKU while in Windows PE.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Determining the Disk and Partition Number from the Logical Drive X:\WINDOWS]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property OriginalArchitecture is now = X64]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Getting virtualization info]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsHypervisorRunning is now = False]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SupportsVT is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SupportsNX is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property Supports64Bit is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SupportsHyperVRole is now = True]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[This computer does not appear to be a virtual machine (BIOS is 'LENOVO - 1390').]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsVM is now = False]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished getting virtualization info]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Connection succeeded to MicrosoftVolumeEncryption]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[There are no encrypted drives]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property IsBDE is now = False]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Processing the PREINSTALL phase.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Determining the INI file to use.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished determining the INI file to use.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Using from [Settings]: Rule Priority = DEFAULT]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[------ Processing the [DEFAULT] section ------]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property DEPLOYROOT is now = \\PHL-IMAGE.acr.org\DeploymentShare$]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Using from [DEFAULT]: DEPLOYROOT = \\PHL-IMAGE.acr.org\DeploymentShare$]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property SKIPBDDWELCOME is now = NO]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Using from [DEFAULT]: SKIPBDDWELCOME = NO]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[------ Done processing X:\Deploy\Scripts\Bootstrap.ini ------]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Remapping variables.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property TaskSequenceID is now = ]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Property DeploymentType is now = NEWCOMPUTER]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Finished remapping variables.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[ZTIGather processing completed successfully.]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="ZTIGather" context="" type="1" thread="" file="ZTIGather">
+<![LOG[Command completed, return code = 0]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Run WPEUtil.exe ListKeyboardLayouts 1033]LOG]!><time="14:51:58.000+000" date="02-20-2024" component="Wizard" context="" type="1" thread="" file="Wizard">
+<![LOG[CleanStartItems Complete]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[TSCore.dll not found, not unregistering.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[About to run command: wscript.exe "X:\Deploy\Scripts\LTICleanup.wsf"]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Removing AutoAdminLogon registry entries]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Re-enabling UAC for built-in Administrator account]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[VSSMaxSize not specified using 5% of volume.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Logs contained 0 errors and 0 warnings.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[No Windows PE image to delete.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Checking mapped network drive.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Cleaning up C:\MININT directory.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">
+<![LOG[Cleaning up TOOLS, SCRIPTS, and PACKAGES directories.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LTICleanup" context="" type="1" thread="" file="LTICleanup">

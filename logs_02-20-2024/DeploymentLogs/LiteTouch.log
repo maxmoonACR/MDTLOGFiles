@@ -1,0 +1,53 @@
+<![LOG[ZTIUtility!GetAllFixedDrives (False)]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="C:"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #1, Partition #0"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="D:"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[ZTIUtility!GetAllFixedDrives =   C: ]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property LogPath is now = C:\MININT\SMSOSD\OSDLOGS]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Microsoft Deployment Toolkit version: 6.3.8456.1000]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property Debug is now = FALSE]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Cleaned up a dirty deployment.]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[ZTIUtility!GetAllFixedDrives (False)]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:50.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="C:"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #1, Partition #0"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="D:"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[ZTIUtility!GetAllFixedDrives =   C: ]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[No task sequence is in progress.]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS TargetDisk: \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[GetPartitions: 3]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS Target Partition: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Target Partition not big enough: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #0"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS Target Partition: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDiskPartition : \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #1"    \\MININT-2A8NCC5\root\cimv2:Win32_LogicalDisk.DeviceID="C:"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Drive: C:]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible OS Target Partition: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #2"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Target Partition not big enough: \\MININT-2A8NCC5\root\cimv2:Win32_DiskPartition.DeviceID="Disk #0, Partition #2"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[New ZTIDisk : \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found Possible NonOS Disk: \\MININT-2A8NCC5\root\cimv2:Win32_DiskDrive.DeviceID="\\\\.\\PHYSICALDRIVE1"]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Found FirstPossibleSystemDrive: C:]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property SMSTSLocalDataDrive is now = C:]LOG]!><time="14:51:51.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Unable to get Current ID.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Not running within WinPE or WinRE.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeploymentMethod is now = UNC]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[DeploymentMethod = UNC]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeployRoot is now = X:\Deploy]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Using a local or mapped drive, no connection is required.]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[DeployRoot = X:\Deploy]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeployDrive is now = X:]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[DeployDrive = X:]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property PHASE is now = PREINSTALL]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property DeploymentType is now = NEWCOMPUTER]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Phase = PREINSTALL]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Property LTIFirstTime is now = NO]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[About to run command: wscript.exe "X:\Deploy\Scripts\ZTIGather.wsf" /inifile:Bootstrap.ini]LOG]!><time="14:51:55.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[Command completed, return code = 0]LOG]!><time="14:51:57.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[CleanStartItems Complete]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[TSCore.dll not found, not unregistering.]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
+<![LOG[About to run command: wscript.exe "X:\Deploy\Scripts\LTICleanup.wsf"]LOG]!><time="14:52:01.000+000" date="02-20-2024" component="LiteTouch" context="" type="1" thread="" file="LiteTouch">
